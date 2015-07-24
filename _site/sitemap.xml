@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/typography/</loc>
+      
+        <lastmod>2015-11-16T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/comments/</loc>
+      
+        <lastmod>2015-11-15T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/no-header/</loc>
+      
+        <lastmod>2015-10-11T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/no-header-but-image/</loc>
+      
+        <lastmod>2015-03-12T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/header-with-text/</loc>
+      
+        <lastmod>2015-02-10T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/header-logo-only/</loc>
+      
+        <lastmod>2014-10-09T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/header-image-color/</loc>
+      
+        <lastmod>2014-10-09T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/header-full-width-image/</loc>
+      
+        <lastmod>2014-10-09T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/header-image-pattern/</loc>
+      
+        <lastmod>2014-10-08T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/gallery/</loc>
+      
+        <lastmod>2014-09-15T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/video/</loc>
+      
+        <lastmod>2014-09-14T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/grid/</loc>
+      
+        <lastmod>2014-09-13T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/portfolio/</loc>
+      
+        <lastmod>2014-09-10T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/page-fullwidth/</loc>
+      
+        <lastmod>2014-08-19T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/post-right-sidebar/</loc>
+      
+        <lastmod>2014-07-10T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/page/</loc>
+      
+        <lastmod>2014-07-10T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/breadcrumb/</loc>
+      
+        <lastmod>2014-07-10T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/post-left-sidebar/</loc>
+      
+        <lastmod>2014-07-09T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//404.html</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//blog/archive/</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//changelog/</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//contact/</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//design/</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//documentation/</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//feed.xml</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//getting-started/</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//headers/</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//humans.txt</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//blog/</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//info/</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//redirect-page/</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//roadmap/</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//robots.txt</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//search/</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//sitemap.xml</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//assets/css/styles_feeling_responsive.css</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//blog/page2/</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//blog/page3/</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://raspilot.github.io//blog/page4/</loc>
+      
+        <lastmod>2015-07-24T23:22:55+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+</urlset>

@@ -1,0 +1,44 @@
+- name: YouTube
+  url: http://www.youtube.com/raspilot.io
+  class: icon-youtube
+  title: "Videos of Raspilot on YouTube"
+
+- name: Twitter
+  url: http://twitter.com/raspilot
+  class: icon-twitter
+  title: ""
+
+- name: Facebook
+  url: http://www.facebook.com/raspilot
+  class: icon-facebook
+  title: ""
+
+#- name: Soundcloud
+#  url: http://soundcloud.com/phlow
+#  class: icon-soundcloud
+#  title: "Sounds und Downloads und mehr"
+
+- name: GitHub
+  url: http://github.com/raspilot
+  class: icon-github
+  title: Code and Other Data
+
+- name: Instagram
+  url: http://instagram.com/raspilot
+  class: icon-instagram
+  title: "Come and see some new Photos"
+
+#- name: Pinterest
+#  url: http://www.pinterest.com/phlowmedia/
+#  class: icon-pinterest
+#  title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
+
+#- name: Mixcloud
+#  url: http://www.mixcloud.com/phlow/
+#  class: icon-cloud
+#  title: "Mixe, was sonst?"
+
+# - name: Xing
+#   url: https://www.xing.com/profile/Moritzmo_Sauer
+#   class: icon-xing
+#   title: Xing Profil
