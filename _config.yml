@@ -16,11 +16,12 @@ slogan: "APM on Raspberry Pi"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»RasPilot« is an autopilot runs APM flight-stack on Raspberry Pi."
+description: "»RasPilot« is an open-source Linux autopilot based on APM flight-stack for Raspberry Pi."
 
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
+#url: "http://127.0.0.1:4000/"
 url: "http://raspilot.github.io/"
 baseurl: ""
 
@@ -34,6 +35,7 @@ improve_content: https://github.com/raspilot/raspilot.github.io
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
+#urlimg: "http://127.0.0.1:4000/images/"
 urlimg: "http://raspilot.github.io/images/"
 
 
