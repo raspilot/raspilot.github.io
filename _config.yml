@@ -21,8 +21,8 @@ description: "»RasPilot« is an open-source Linux autopilot based on APM flight
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-#url: "http://127.0.0.1:4000/"
-url: "http://raspilot.github.io/"
+#url: "http://127.0.0.1:4000"
+url: "http://raspilot.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html

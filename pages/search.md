@@ -3,6 +3,7 @@ layout: page
 show_meta: false
 title: "Search"
 permalink: "/search/"
+header: no
 ---
 
 {% include google_search.html %}

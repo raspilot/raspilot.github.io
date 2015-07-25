@@ -3,24 +3,9 @@
   
     
     <url>
-      <loc>http://127.0.0.1:4000//design/typography/</loc>
+      <loc>http://127.0.0.1:4000/blog/helloworld/</loc>
       
-        <lastmod>2015-11-16T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/comments/</loc>
-      
-        <lastmod>2015-11-15T00:00:00+08:00</lastmod>
+        <lastmod>2015-07-25T00:00:00+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -31,252 +16,12 @@
     </url>
     
   
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/no-header/</loc>
-      
-        <lastmod>2015-10-11T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
   
     
     <url>
-      <loc>http://127.0.0.1:4000//design/no-header-but-image/</loc>
+      <loc>http://127.0.0.1:4000/404.html</loc>
       
-        <lastmod>2015-03-12T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/header-with-text/</loc>
-      
-        <lastmod>2015-02-10T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/header-logo-only/</loc>
-      
-        <lastmod>2014-10-09T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/header-image-color/</loc>
-      
-        <lastmod>2014-10-09T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/header-full-width-image/</loc>
-      
-        <lastmod>2014-10-09T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/header-image-pattern/</loc>
-      
-        <lastmod>2014-10-08T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/gallery/</loc>
-      
-        <lastmod>2014-09-15T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/video/</loc>
-      
-        <lastmod>2014-09-14T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/grid/</loc>
-      
-        <lastmod>2014-09-13T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/portfolio/</loc>
-      
-        <lastmod>2014-09-10T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/page-fullwidth/</loc>
-      
-        <lastmod>2014-08-19T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/post-right-sidebar/</loc>
-      
-        <lastmod>2014-07-10T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/page/</loc>
-      
-        <lastmod>2014-07-10T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/breadcrumb/</loc>
-      
-        <lastmod>2014-07-10T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/post-left-sidebar/</loc>
-      
-        <lastmod>2014-07-09T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//404.html</loc>
-      
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
+        <lastmod>2015-07-25T23:25:35+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -289,24 +34,9 @@
   
     
     <url>
-      <loc>http://127.0.0.1:4000//blog/archive/</loc>
+      <loc>http://127.0.0.1:4000/blog/archive/</loc>
       
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//changelog/</loc>
-      
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
+        <lastmod>2015-07-25T23:25:35+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -319,24 +49,9 @@
   
     
     <url>
-      <loc>http://127.0.0.1:4000//contact/</loc>
+      <loc>http://127.0.0.1:4000/contact/</loc>
       
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//design/</loc>
-      
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
+        <lastmod>2015-07-25T23:25:35+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -349,24 +64,9 @@
   
     
     <url>
-      <loc>http://127.0.0.1:4000//documentation/</loc>
+      <loc>http://127.0.0.1:4000/documentation/</loc>
       
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//feed.xml</loc>
-      
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
+        <lastmod>2015-07-25T23:25:35+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -379,24 +79,9 @@
   
     
     <url>
-      <loc>http://127.0.0.1:4000//getting-started/</loc>
+      <loc>http://127.0.0.1:4000/feed.xml</loc>
       
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//headers/</loc>
-      
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
+        <lastmod>2015-07-25T23:25:35+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -409,24 +94,9 @@
   
     
     <url>
-      <loc>http://127.0.0.1:4000//humans.txt</loc>
+      <loc>http://127.0.0.1:4000/humans.txt</loc>
       
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//blog/</loc>
-      
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
+        <lastmod>2015-07-25T23:25:35+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -439,24 +109,9 @@
   
     
     <url>
-      <loc>http://127.0.0.1:4000//</loc>
+      <loc>http://127.0.0.1:4000/blog/</loc>
       
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//info/</loc>
-      
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
+        <lastmod>2015-07-25T23:25:35+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -469,24 +124,9 @@
   
     
     <url>
-      <loc>http://127.0.0.1:4000//redirect-page/</loc>
+      <loc>http://127.0.0.1:4000/</loc>
       
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//roadmap/</loc>
-      
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
+        <lastmod>2015-07-25T23:25:35+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -499,24 +139,9 @@
   
     
     <url>
-      <loc>http://127.0.0.1:4000//robots.txt</loc>
+      <loc>http://127.0.0.1:4000/info/</loc>
       
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//search/</loc>
-      
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
+        <lastmod>2015-07-25T23:25:35+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -529,24 +154,9 @@
   
     
     <url>
-      <loc>http://127.0.0.1:4000//sitemap.xml</loc>
+      <loc>http://127.0.0.1:4000/redirect-page/</loc>
       
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//assets/css/styles_feeling_responsive.css</loc>
-      
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
+        <lastmod>2015-07-25T23:25:35+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -559,24 +169,9 @@
   
     
     <url>
-      <loc>http://127.0.0.1:4000//blog/page2/</loc>
+      <loc>http://127.0.0.1:4000/robots.txt</loc>
       
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://127.0.0.1:4000//blog/page3/</loc>
-      
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
+        <lastmod>2015-07-25T23:25:35+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -589,9 +184,54 @@
   
     
     <url>
-      <loc>http://127.0.0.1:4000//blog/page4/</loc>
+      <loc>http://127.0.0.1:4000/search/</loc>
       
-        <lastmod>2015-07-25T17:27:40+08:00</lastmod>
+        <lastmod>2015-07-25T23:25:35+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://127.0.0.1:4000/sitemap.xml</loc>
+      
+        <lastmod>2015-07-25T23:25:35+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://127.0.0.1:4000/specification/</loc>
+      
+        <lastmod>2015-07-25T23:25:35+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://127.0.0.1:4000/assets/css/styles_feeling_responsive.css</loc>
+      
+        <lastmod>2015-07-25T23:25:35+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
