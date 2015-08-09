@@ -12,5 +12,5 @@ header: no
 * [Download from Baidu Yun (for Chinese users)](http://pan.baidu.com/s/1bnHd1TH)
 
 ##APM Binary (Copter-3.3-rc7 2015-07-27)
-* [Download from MEGA]
+* [Download from MEGA](https://mega.nz/#!cEphwIxS!UJOEIqnTpgHNP9A5Q-D7QddVjVAX_AiecMQSci6EJAY)
 * [Download from Baidu Yun (for Chinese users)](http://pan.baidu.com/s/1pJ3hQNT)
