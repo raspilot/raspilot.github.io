@@ -9,9 +9,26 @@
 - title: Documentation
   url: "/documentation/"
   side: left
+  dropdown:
+  - title: Introducing APM
+    url: "/introducing_apm/"
+  - title: Assembly Instruction
+    url: "/assembly_instruction/"
+  - title: Configuring RPi
+    url: "/configuring_rpi/"
+  - title: Loading Sofrware
+    url: "/loading_software/"
+  - title: Developer
+    url: "/developer/"
+  - title: Downloads
+    url: "/downloads/"
 
 - title: Blog
   url: "/blog/"
+  side: left
+
+- title: Order
+  url: "/order/"
   side: left
 
 - title: "Search"
