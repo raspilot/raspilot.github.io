@@ -3,16 +3,16 @@
   <channel>
     <title>RasPilot</title>
     <description>»RasPilot« is an open-source Linux autopilot based on APM flight-stack for Raspberry Pi.</description>
-    <link>http://127.0.0.1:4000/</link>
-    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>RasPilot_V1.0 Another Milestone!</title>
         <description>
 </description>
         <pubDate>Fri, 10 Jul 2015 00:00:00 +0800</pubDate>
-        <link>http://127.0.0.1:4000/blog/raspilot_v1_another_milestone/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/blog/raspilot_v1_another_milestone/</guid>
+        <link>http://localhost:4000/blog/raspilot_v1_another_milestone/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/raspilot_v1_another_milestone/</guid>
       </item>
     
       <item>
@@ -20,8 +20,8 @@
         <description>
 </description>
         <pubDate>Thu, 23 Apr 2015 00:00:00 +0800</pubDate>
-        <link>http://127.0.0.1:4000/blog/raspilot_beta_first_flight/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/blog/raspilot_beta_first_flight/</guid>
+        <link>http://localhost:4000/blog/raspilot_beta_first_flight/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/raspilot_beta_first_flight/</guid>
       </item>
     
       <item>
@@ -29,8 +29,8 @@
         <description>
 </description>
         <pubDate>Sat, 14 Mar 2015 00:00:00 +0800</pubDate>
-        <link>http://127.0.0.1:4000/blog/raspilot_first_prototype/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/blog/raspilot_first_prototype/</guid>
+        <link>http://localhost:4000/blog/raspilot_first_prototype/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/raspilot_first_prototype/</guid>
       </item>
     
   </channel>

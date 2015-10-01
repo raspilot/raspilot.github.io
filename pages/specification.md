@@ -40,10 +40,11 @@ header: no
 * Onboard tri-color LED
 
 ##Schematics
-* [RasPilot_v1.0 schematic](https://github.com/raspilot/Hardware/raw/RASPILOT_V1/RASPILOTv1_0.sch)
-* [RasPilot_v1.1 schematic]
+* [RasPilot_v1.0 schematic](https://github.com/raspilot/Hardware/raw/RASPILOT_V1/RASPILOTv1_0.pdf)
+* [RasPilot_v1.1 schematic](https://github.com/raspilot/Hardware/raw/RASPILOT_V1/RASPILOTv1_1.pdf)
 
 ##Connectors (v1.1)
+<img src="{{ site.url }}/images/pages_connectors.jpg">
 
 ##Pinouts (compatible with pixhawk)
 POWER

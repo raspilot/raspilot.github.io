@@ -18,6 +18,12 @@
     url: "/configuring_rpi/"
   - title: Loading Sofrware
     url: "/loading_software/"
+  - title: Soft-iron Calibration
+    url: "/softiron_calibration/"
+  - title: WiFi Instruction
+    url: "/wifi_instruction/"
+  - title: ESC Calibration
+    url: "/esc_calibration/"
   - title: Developer
     url: "/developer/"
   - title: Downloads

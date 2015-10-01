@@ -21,7 +21,6 @@ description: "»RasPilot« is an open-source Linux autopilot based on APM flight
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-#url: "http://127.0.0.1:4000"
 url: "http://raspilot.github.io"
 baseurl: ""
 
@@ -35,7 +34,6 @@ improve_content: https://github.com/raspilot/raspilot.github.io
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-#urlimg: "http://127.0.0.1:4000/images/"
 urlimg: "http://raspilot.github.io/images/"
 
 
