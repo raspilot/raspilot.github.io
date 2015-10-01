@@ -37,6 +37,10 @@
   url: "/order/"
   side: left
 
+- title: Forum
+  url: "/forum/"
+  side: left
+
 - title: "Search"
   url: "/search/"
   side: right
