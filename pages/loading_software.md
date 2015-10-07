@@ -71,13 +71,14 @@ sudo ./ArduCopter.elf -h
 To start the binary automatically after Raspberry Pi booting, add the following to /etc/rc.local in Raspberry Pi. Please change the -A, -B, -C options to suit your setup.
 
 ~~~
-sudo /home/pi/ArduCopter.elf -A udp:192.168.1.100:14550 -B /dev/ttyAMA0 > /home/pi/startup_log &
+sudo ./home/pi/ArduCopter.elf -A udp:192.168.1.100:14550 -B /dev/ttyAMA0 > /home/pi/startup_log &
 ~~~
 
 ##Setup battery monitor
 To use a battery monitor on RasPilot is as same as on Pixhawk. The config parameters are same.
 
 Here is a screen shot of battery monitor parameters.
+<img src="{{ site.url }}/images/pages_battery_monitor.png">
 
 ##Compass Calibration tip
 The big metal USB sockets on Raspberry Pi B+ & 2B could cause soft-iron effect (not that notable on RPi A+). So it strongly recommended to do soft-iron cabration. [Here is the tutorial](/softiron_calibration/).
