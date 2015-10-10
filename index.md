@@ -28,5 +28,5 @@ spec-2:
     text: '<ul><li>ST Micro L3GD20H gyro<li>ST Micro LSM303D accel / mag<li>Invensense MPU 9250 accel/gyro<li>MEAS MS5611 barometer</ul>'
 spec-3:
     title: "Interfaces"
-    text: '<ul><li>2x UART (serial ports)<li>1x CAN (need external transmitter)<li>8x PWM<li>Spektrum DSM / DSM2 / DSM-X® Satellite Receiver compatible<li>Futaba S.BUS® compatible input and output<li>PPM sum Receiver<li>RSSI (PWM or voltage) Input<li>1x I2C<li>3.3V & 6.6V A/D input<li>Safety switch<li>Buzzer Interface<li>Onboard tri-color LED</ul>'
+    text: '<ul><li>2x UART (serial ports)<li>1x CAN (need external transceiver)<li>8x PWM<li>Spektrum DSM / DSM2 / DSM-X® Satellite Receiver compatible<li>Futaba S.BUS® compatible input and output<li>PPM sum Receiver<li>RSSI (PWM or voltage) Input<li>1x I2C<li>3.3V & 6.6V A/D input<li>Safety switch<li>Buzzer Interface<li>Onboard tri-color LED</ul>'
 ---

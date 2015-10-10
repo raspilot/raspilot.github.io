@@ -27,7 +27,7 @@ header: no
 ###Interfaces
 
 * 2x UART (serial ports)
-* 1x CAN (need external transmitter)
+* 1x CAN (need external transceiver)
 * 8x PWM
 * Spektrum DSM / DSM2 / DSM-X® Satellite Receiver compatible
 * Futaba S.BUS® compatible input and output
