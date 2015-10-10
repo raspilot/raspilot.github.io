@@ -118,8 +118,8 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             ""
-google_site_verification:  ""
+google_author:             "raspilot.io"
+google_site_verification:  "googleecbec19352bcfe67.html"
 bing_webmastertools_id:    ""
 # alexa_verify_id:         ""
 
