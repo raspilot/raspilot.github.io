@@ -24,7 +24,7 @@ There is  a bunch of 2.4GHz USB WiFi dongles you can find working on Raspberry P
 
 One solution is to hack the RC controller to keep away from some of the WiFi channels. Here is  an instruction on [befinitiv's blog](https://befinitiv.wordpress.com/2015/08/26/enable-2-4ghz-rc-systems-to-work-with-2-4ghz-video-systems/).
 
-But we still have a clean place: 5GHz. Fewer WiFi devices are working on 5GHz spectrum, and normally no RC controller uses 5GHz. We should get a good performance on 5GHz. And it's strongly recommended to use 5.8GHz channnels on WiFi FPV and telemtry.
+But we still have a clean place: 5GHz. Fewer WiFi devices are working on 5GHz spectrum, and normally no RC controller uses 5GHz. We should get a good performance on 5GHz. And it's strongly recommended to use 5.8GHz channnels on WiFi FPV and telemetry.
 
 ##Recommended wireless devices
 
@@ -68,7 +68,7 @@ sudo hostapd /home/pi/hostapd.conf &
 ###High power wireless net bridge
 
 ##Ground Control Station (GCS) on phone
-Tower (Droid Planner) is an open-source groun station running on Android devices, with beautiful user interface. If support connection to droid via USB telemtry, bluetooth, or UDP from network.
+Tower (Droid Planner) is an open-source groun station running on Android devices, with beautiful user interface. If support connection to droid via USB telemetry, bluetooth, or UDP from network.
 
 In a typical application, you could connect your phone to the AP hosted by dongle, choose the UDP mode in the setting, then enjoy the flight. The default UDP port is 14550.
 

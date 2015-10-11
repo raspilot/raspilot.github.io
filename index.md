@@ -18,7 +18,7 @@ widget-2:
     image: widget-raspberrypi.png
 widget-3:
     title: "Pix-compatible Interface"
-    text: 'Designed with Pixhawk compatible connectors & accessories. Using common accessories, Power Module, GPS & Compass Module, Telemtry, ToneAlarm, Safety Switch, or even PX4Flow. More choices, more functions, less change.'
+    text: 'Designed with Pixhawk compatible connectors & accessories. Using common accessories, Power Module, GPS & Compass Module, Telemetry, ToneAlarm, Safety Switch, or even PX4Flow. More choices, more functions, less change.'
     image: widget-access.png
 spec-1:
     title: "Features"
