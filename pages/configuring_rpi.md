@@ -11,7 +11,7 @@ For detailed instructions of using Raspberry Pi, please visit the official docum
 [https://www.raspberrypi.org/documentation/](https://www.raspberrypi.org/documentation/)
 
 ##Writing an (Linux) image to the SD card
-Default Raspbian kernel is compiled with PREEMPT option which has a serious latency on interrupt calling. To ensure the ardupilot task to be executed within low latency time, we patched the Raspbian kernel with [Real-Time patch](https://rt.wiki.kernel.org). Please download the latest Linux image in the Download Page [here](http://raspilot.io/downloads/).
+Default Raspbian kernel is compiled with PREEMPT option which has a serious latency on interrupt calling. To ensure the ardupilot task to be executed within low latency time, we patched the Raspbian kernel with [Real-Time patch](https://rt.wiki.kernel.org). Please download the latest Linux image in the Download Page [here](/downloads/).
 
 Then follow the installing-image instruction on Raspberry Pi Foundation page.
 
