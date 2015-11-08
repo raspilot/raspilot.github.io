@@ -33,10 +33,6 @@
   url: "/blog/"
   side: left
 
-- title: Order
-  url: "/order/"
-  side: left
-
 - title: Forum
   url: "/forum/"
   side: left
